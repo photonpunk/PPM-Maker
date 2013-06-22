@@ -1,0 +1,1 @@
+{"name":"PPM Maker","tagline":"Convert any image to PPM P3","body":"This script converts images into PPM P3 Ascii format.\r\n\r\nIt also resizes the image to 60 by 60 pixels. \r\n\r\nImageMagick must be installed before running this script.\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
